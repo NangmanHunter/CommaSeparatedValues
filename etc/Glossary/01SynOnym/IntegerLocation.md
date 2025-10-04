@@ -1,0 +1,5 @@
+- iloc
+- ILoc
+- label 기반 선택 (loc)
+- `iloc`
+- integer location 기반 선택 (iloc)

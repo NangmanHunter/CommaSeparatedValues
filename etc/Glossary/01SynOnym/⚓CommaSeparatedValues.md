@@ -1,0 +1,32 @@
+- comma-separated-values
+- commaseparatedvalues
+- commaSeparatedValues
+- CommaSeparatedValues
+- Comma`SeparatedValues`
+- `Comma`SeparatedValues
+- Comma SeparatedValues
+- CommaSeparated Values
+- Comma-Separated Values
+- CSV
+- `C`SV
+- Csv
+- CsvFile
+- CsvFileExtention
+- CSV파일
+- csv
+- .csv
+- .csv확장자
+- .csv파일확장자
+- .csv파일
+- `.csv`
+- `.csv`확장자
+- `.csv`파일
+- `.csv`파일확장자
+- Ex.01▶️Playlist Title, Playlist ID, Video Count
+- Ex.02▶️Python 강의, PL1234567890, 15
+- Ex.03▶️음악 모음, PLabcdef12345, 42
+- Ex.04▶️저장한 TED Talks, PL9876543210, 8
+- 데이터를 쉼표( , )로 구분해서 저장한 텍스트 파일
+- 줄바꿈 = 행(row), 쉼표 = 열(column)
+- 내부는 단순한 텍스트라서 메모장, 엑셀, 구글 스프레드시트 다 열 수 있음
+- 표 형태의 데이터를 저장하는 데 자주 씀

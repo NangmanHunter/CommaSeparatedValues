@@ -1,0 +1,15 @@
+- Head
+- head
+- head()
+- head()▶️Default-5개
+- head()▶️Default5개
+- head()▶️5개Default
+- head()▶️5Default
+- head()▶️5디폴트
+- head()▶️5개디폴트
+- head()▶️5개
+- head()▶️5개기본
+- head()▶️head(5)
+- head()=head(5)
+- `head()`=`head(5)`
+- CSV나 텍스트 파일의 상위 몇 줄만 빠르게 보는 명령
